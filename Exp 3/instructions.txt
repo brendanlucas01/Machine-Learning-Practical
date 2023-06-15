@@ -1,0 +1,15 @@
+Experiment 3: Implement Logistic Regression
+Paste the folder in the PC
+
+open terminal using Ctrl + Alt + T
+
+cd to the current folder
+
+paste the command:
+jupyter notebook
+
+open the Exp_3_LogisticRegression_pracs.ipynb file in Jupyter Notebooks
+
+Run all cells
+
+All the Best For Your Vivas!!!!!

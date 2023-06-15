@@ -1,0 +1,15 @@
+Experiment 6: Implement Hierarchical Clustering
+Paste the folder in the PC
+
+open terminal using Ctrl + Alt + T
+
+cd to the current folder
+
+paste the command:
+jupyter notebook
+
+open the Exp_6_Hierarchical_clustering_pracs.ipynb file in Jupyter Notebooks
+
+Run all cells
+
+All the Best For Your Vivas!!!!!

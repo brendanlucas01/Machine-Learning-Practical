@@ -1,0 +1,17 @@
+Experiment 1: Linear Regression
+Paste the folder in the PC
+
+open terminal using Ctrl + Alt + T
+
+cd to the current folder
+
+paste the command:
+jupyter notebook
+
+Fill the values in X and Y arrays
+
+open the Exp_1_Linear_Regression_Algorithm.ipynb file in Jupyter Notebooks
+
+Run all cells
+
+All the Best For Your Vivas!!!!!

@@ -1,0 +1,15 @@
+Experiment 4: implement Decision Tree
+Paste the folder in the PC
+
+open terminal using Ctrl + Alt + T
+
+cd to the current folder
+
+paste the command:
+jupyter notebook
+
+open the Exp_4_Decision_Tree.ipynb file in Jupyter Notebooks
+
+Run all cells
+
+All the Best For Your Vivas!!!!!

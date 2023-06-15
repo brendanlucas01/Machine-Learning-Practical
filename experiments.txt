@@ -1,0 +1,18 @@
+Hi There,
+
+Glad you remembered me.
+
+This is the list of experiments for Machine Learning
+Each practical is in a seperate folder with all the code and necessary files.
+inside each folder there is a file named instruction.txt containing all the required info
+
+Exp 1: Linear Regression Algorithm
+Exp 2: MVLR pracs
+Exp 3: Logistic Regression
+Exp 4: Decision Tree
+Exp 5: Support Vector Machine (SVM)
+Exp 6: Hierarchical Clustering
+Exp 7: Ensemble Learning
+Exp 8: Principal Component Analysis (PCA)
+
+Best of Luck !!!
